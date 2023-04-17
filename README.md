@@ -1,4 +1,4 @@
 # Discrete-Project
 A discrete mathematics project for Al-Najah university.
-with controbution to Ameer Rabie.
+with contribution to Ameer Rabie.
 
